@@ -1,0 +1,25 @@
+body{
+    background-color : aqua;
+  background-image : url("../images/relone.jpg");
+
+    }
+h1{
+          color : rebeccapurple;
+      text-align : center;
+    background-color: black
+}
+
+h2{
+          color : rebeccapurple;
+      text-align : center;
+    background-color: black
+}
+
+h3{
+          color : rebeccapurple;
+      text-align : center;
+    background-color: black
+}
+p{
+    color: yellowgreen
+}
