@@ -1,0 +1,28 @@
+h1#kido {
+    text-align:center;
+    background-color: salmon;
+    color: gainsboro;
+}
+
+h2.green{
+    text-align: center;
+    background-color: azure;
+    color: rebeccapurple;
+}
+
+h2.red{
+    text-align: center;
+    background-color: plum;
+    color:magenta;
+}
+
+h1#kidoku {
+    text-align: center;
+    background-color: antiquewhite;
+    color: brown;
+
+}
+
+body{
+    background-image: url("../images/ex1.jpg");
+}
